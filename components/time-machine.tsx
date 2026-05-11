@@ -89,6 +89,14 @@ const IMAGES = [
   "https://tomaslonnblad.github.io/89.jpg",
   "https://tomaslonnblad.github.io/90.jpg",
   "https://tomaslonnblad.github.io/91.jpg",
+  "https://tomaslonnblad.github.io/92.jpg",
+  "https://tomaslonnblad.github.io/93.jpg",
+  "https://tomaslonnblad.github.io/94.jpg",
+  "https://tomaslonnblad.github.io/95.jpg",
+  "https://tomaslonnblad.github.io/96.jpg",
+  "https://tomaslonnblad.github.io/97.jpg",
+  "https://tomaslonnblad.github.io/98.jpg",
+  "https://tomaslonnblad.github.io/99.jpg",
 ]
 
 const FRAME_OFFSET = -30
