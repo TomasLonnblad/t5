@@ -2,7 +2,7 @@ import TimeMachine from "@/components/time-machine"
 
 export default function Page() {
   return (
-    <main className="h-148 w-300 object-fill   ">
+   <main className="w-full h-screen bg-black">
       <TimeMachine />
     </main>
   )
